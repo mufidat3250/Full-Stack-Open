@@ -1,4 +1,3 @@
-import React from 'react'
 
 const PersonForm = ({handleSubmit, handleChange, phoneRecord}) => {
   return (
