@@ -18,6 +18,7 @@ const PersonForm = ({handleSubmit, handleChange, phoneRecord}) => {
             value={phoneRecord.number}
             onChange={handleChange}
             name="number"
+            type='text'
           />
         </div>
         <div>
